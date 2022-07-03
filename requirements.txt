@@ -1,3 +1,4 @@
-selenium
-pytest
-html-testRunner
+
+selenium 3.141.0
+pytest 6.1.2
+html-testRunner 1.2.1
